@@ -1,14 +1,19 @@
 <h1>Hi, I'm Roberto! <br/><a href="https://www.linkedin.com/in/roberto-bonefont-jr-6a769a23/">AI Product Manager</a>, <a href="https://github.com/">Product Strategist</a>, <a href="https://www.notion.so/">Builder of Quiet Tools</a></h1>
 
-<h2>🧠 Case Study-Driven Product Work</h2>
 
-🎬 QuietStak MVP's in action
+
+#  QuietStak: Foundational Agentic Tools for Service Operators
 
 <p align="center">
-  <img src="assets/QuietStakDemo.gif" width="800" alt="QuietStak Demo GIF">
+  <img src="assets/Company%20intro.jpg" alt="QuietStak Vision Diagram" width="800"/>
 </p>
 
-A glimpse into QuietStak — designed to reduce ambient noise and cognitive load for knowledge workers using AI-powered focus rituals and smart interruption handling.
+
+---
+> “No dashboards. No bloat. Just useful, focused micro-agents built on OpenAI and human insight.”
+---
+
+# Current MVP's
 
 - <b>GoldenBot – The AI Assistant for Culinary Entrepreneurs</b>  
   - [First Automation MVP](https://github.com/robertobonefont/goldenbot-case-study)  
@@ -18,7 +23,7 @@ A glimpse into QuietStak — designed to reduce ambient noise and cognitive load
 - <b>Catering Copilot – AI Assistant for Solo Chefs</b>  
   - [Catering Sector Automation](https://github.com/robertobonefont/goldenbot-case-study)  
     Automates lead response, invoice generation, and calendar blocking using GPT-4, Google suite API, and no-code tools, and a light notion powered data-base. Designed for catering managers that are juggling events and inbox chaos.  
-    <i>“How do i run a catering operation and the lead generation and follow up while I'm also executing the events?”</i>
+    <i>“How do I run a catering operation and the lead generation and follow up during the day when I'm also executing the events at night?”</i>
 
 - <b>PM Wizard – Strategic Copilot for Product Leaders</b>  
   - [Product Strategy PRD](https://github.com/robertobonefont/quietstak-case-study/blob/main/🧭%20PM%20Wizard%20PRD%20v1.docx)  
@@ -32,6 +37,12 @@ A glimpse into QuietStak — designed to reduce ambient noise and cognitive load
 - <b>Subscription Pivot: B2B Food Experience (Blossom)</b>  
   - [Research-to-Roadmap](https://github.com/robertobonefont/blossom-subscription-model)  
     Led customer discovery, subscription modeling, and MVP roadmap for a B2B food experience brand pivoting toward monthly enterprise plans. Delivered key insight that shifted pricing strategy and doubled contract conversions in pilot accounts.
+
+---
+
+<p align="center">
+  <img src="assets/QuietStakDemo.gif" width="800" alt="QuietStak Demo GIF">
+</p>
 
 ---
 
