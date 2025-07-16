@@ -2,22 +2,36 @@
 
 <h2>🧠 Case Study-Driven Product Work</h2>
 
+🎬 QuietStak Case Study Demo
+
+<p align="center">
+  <img src="assets/QuietStakDemo.gif" width="800" alt="QuietStak Demo GIF">
+</p>
+
+A glimpse into QuietStak — designed to reduce ambient noise and cognitive load for knowledge workers using AI-powered focus rituals and smart interruption handling.
+
 - <b>GoldenBot – The AI Assistant for Culinary Entrepreneurs</b>  
-  - [Case Study](https://github.com/robertobonefont/goldenbot-case-study)  
-    Automates lead follow-up, calendar blocking, and invoice creation for solo chefs. Built with GPT-4, Gmail API, and low-code tools.  
+  - [First Automation MVP](https://github.com/robertobonefont/goldenbot-case-study)  
+    Automates lead follow-up, calendar blocking, and invoice creation for solo chefs. Built with GPT-4, Gmail API, and low-code tools. Purpose built for Solo-preneur chefs that need help managing the back-end and the back of the house. 
     <i>“I can cook for 40 people, but I can’t chase 20 leads…”</i>
 
-- <b>QuietStak – Micro-Agents for Mental Clarity</b>  
-  - [Case Study](https://github.com/robertobonefont/quietstak-case-study)  
-    Designed AI-native agents that reduce inbox overload and manual follow-up. No dashboards. No bloat. Just relief.
+- <b>Catering Copilot – AI Assistant for Solo Chefs</b>  
+  - [Catering Sector Automation](https://github.com/robertobonefont/goldenbot-case-study)  
+    Automates lead response, invoice generation, and calendar blocking using GPT-4, Google suite API, and no-code tools, and a light notion powered data-base. Designed for catering managers that are juggling events and inbox chaos.  
+    <i>“How do i run a catering operation and the lead generation and follow up while I'm also executing the events?”</i>
 
-- <b>CRM-Integrated Quoting System (GSJA)</b>  
-  - [Field Ops Automation](https://github.com/robertobonefont/gsja-crm-automation)  
-    Automated quoting and requisitions for a high-volume catering team. Saved 4.5 hours/week, boosted margin 6% MoM.
+- <b>PM Wizard – Strategic Copilot for Product Leaders</b>  
+  - [Product Strategy PRD](https://github.com/robertobonefont/quietstak-case-study/blob/main/🧭%20PM%20Wizard%20PRD%20v1.docx)  
+    A personalized GPT assistant for PMs to write better PRDs, test hypotheses faster, Generate realistic personas, and align cross-functional teams using HDD and JTBD frameworks. Integrated with Zapier, Notion, and Slack for async flow.  
+    <i>“It’s like pairing with a lead PM who knows what questions to ask anywhere in the product lifecycle.”</i>
+
+- <b>Web-Form Based Ordering System (GSJA)</b>  
+  - [Ops Automation](https://github.com/robertobonefont/gsja-crm-automation)  
+    Replaced clipboard orderguides with a structured, QR code system that automated ordering pipelines for a high-volume restaurant team. Reduced ordering time by 25%, recovered 4.5 leadership hours/week, empowered whole team to participate in requisition process, virtually eliminated ordering errors and improved product consistency across all restaurants within the portfolio.
 
 - <b>Subscription Pivot: B2B Food Experience (Blossom)</b>  
   - [Research-to-Roadmap](https://github.com/robertobonefont/blossom-subscription-model)  
-    Led user testing and roadmap development for a catering-to-subscription pivot. Doubled contract conversions.
+    Led customer discovery, subscription modeling, and MVP roadmap for a B2B food experience brand pivoting toward monthly enterprise plans. Delivered key insight that shifted pricing strategy and doubled contract conversions in pilot accounts.
 
 ---
 
