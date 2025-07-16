@@ -2,7 +2,7 @@
 
 <h2>🧠 Case Study-Driven Product Work</h2>
 
-🎬 QuietStak Case Study Demo
+🎬 QuietStak MVP's in action
 
 <p align="center">
   <img src="assets/QuietStakDemo.gif" width="800" alt="QuietStak Demo GIF">
