@@ -65,25 +65,8 @@ I specialize in bringing AI-native products to life through a structured, hypoth
 - Discovery tracking with RICE/ICE/Confidence ratings
 ---
 
-<h2>📌 Featured Projects</h2>
+<h2> 👀 What I'm Up To These Days...</h2>
 
-- <b>Notion-Powered PRD Generator</b>  
-  - Internal tool using LLM prompts to capture insights directly into Notion  
-  - Speeds up product documentation by ~40%
-
-- <b>Trust Loops for GPT Assistants</b>  
-  - Built lightweight signal capture via emoji feedback and digest open tracking  
-  - Improves assistant iteration without complex dashboards
-
----
-
-<h2> 🤝 Connect with Me</h2>
-
-[<img align="left" alt="Roberto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/roberto-bonefont-jr-6a769a23/
-
----
 
 - 🔭 I’m currently working on: lightweight Agentic AI assistants that remove admin friction from solo workflows  
 - 🌱 I’m currently learning: Python and deeper applications of retrieval-augmented generation (RAG) for workflow agents.  
