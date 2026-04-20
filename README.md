@@ -1,103 +1,73 @@
-<h1 align="center">Hi, I'm Roberto Bonefont 👋</h1>
+<h1 align="center">Hi, I'm Roberto Bonefont Jr. 👋</h1>
 <p align="center">
   <b>Product Manager • AI Builder • Systems Thinker</b><br/>
   Building thoughtful, AI-native tools that reduce friction and unlock clarity.
 </p>
-
 ---
-
 ## 🧭 Vision
-
 <p align="center">
   <img src="assets/vision-diagram.jpg" width="800" alt="Vision Diagram"/>
 </p>
-
-I design products that reduce cognitive load and operational friction — especially for overloaded teams and high-stakes workflows.
-
-> “Less noise. More clarity. Tools that actually do the work.”
-
+I design products that reduce cognitive load and operational friction — especially in high-pressure, capacity-constrained environments.
+> “I approach product design through the lens of operational reality — systems that work under pressure.”
 ---
-
 ## 🧠 Case Studies
-
-### 🍽️ [Unified Customer Onboarding – Faster Time-to-Value](https://github.com/8Bit-Chef/8Bit-Chef)
-- Replatformed onboarding across web and mobile to streamline first-use experience and remove drop-off friction.
-- Key tools: Product roadmaping, stakeholder alignment, instrumentation strategy.
-- Outcome: Clearer onboarding flow and stronger retention checkpoints.  
-<i>“Make the first five minutes feel obvious, not overwhelming.”</i>
-
+### 🍽️ [QuietStak – AI Agent Ecosystem for Catering Ops](https://shrub-deer-86052410.figma.site)
+- Designed an AI-driven workflow stack for lead capture, qualification, and response in hospitality operations.
+- Key tools/frameworks: AI agent design, workflow automation, JTBD-informed product thinking.
+- Impact: **+53% time recovery**, **<2 min lead response**, **+34% conversion uplift**.  
+<i>“Most AI tools replace people. I designed agents that give operators their nights and weekends back.”</i>
 ---
-
-### 🧩 [Insights Workspace MVP – From Ambiguity to MVP](https://github.com/8Bit-Chef?tab=repositories)
-- Defined problem space, MVP scope, and experiment backlog for an operations-facing analytics workspace.
-- Frameworks used: JTBD, hypothesis-driven discovery, opportunity mapping.
-- Key impact: Faster alignment between design, engineering, and product decisions.  
-<i>“Good scope creates momentum. Great scope creates confidence.”</i>
-
+### 🧩 [ResQ – Field Ops Truth & Reconciliation](https://raven-body-00217928.figma.site)
+- Rebuilt onboarding so digital system state matched physical site reality (equipment tagging, validation, calibration).
+- Frameworks used: process redesign, human-in-the-loop validation, operations-first implementation.
+- Impact: **100% asset accuracy**, reduced rework/re-installs, stronger sensor uptime and faster operator trust.  
+<i>“Software doesn’t work unless the system knows the truth.”</i>
 ---
-
-### ⚙️ [Delivery Health Program – Predictable Execution at Scale](https://github.com/8Bit-Chef?tab=repositories)
-- Implemented lightweight governance for releases, risk visibility, and dependency management.
-- Operational/business impact: Better cross-functional coordination without adding process drag.
-- Metrics: Quarterly outcome reviews and release health tracking.
-
+### ⚙️ [Gigi’s – Demand Ignition for a New CPG Brand](https://mining-disc-42507002.figma.site)
+- Took a new shelf-stable snack concept from R&D to launch by building GTM, operations, and early traction loops.
+- Operational/business impact: established launch systems across product, packaging, channel strategy, and DTC setup.
+- Early traction: roadmap validated through beta testing, retention signals, and iterative growth experiments.
 ---
-
 ## 🎬 Demo
-
 <p align="center">
   <img src="assets/demo.gif" width="800" alt="Demo GIF"/>
 </p>
-
-Short walkthrough of the product experience.
-
+Walkthrough of the portfolio experience and case-study navigation.
 ---
-
 ## 📘 Product Strategy & UX Fluency
-
 ### 🔁 Discovery & Strategy
 - Jobs-to-Be-Done (JTBD)
 - Hypothesis-Driven Development (HDD)
 - Opportunity mapping & prioritization
-
+- Product-market fit validation
 ### 🎯 UX & Research
 - User interviews & synthesis
 - Journey mapping & friction analysis
 - Wireframing & prototyping (Figma)
-
+- Operational workflow modeling
 ### 🛠️ Tools & Systems
-- AI: GPT workflows, copilots, prompt systems
-- Workflow: Notion, Zapier, Google Workspace
+- AI: LLM integration, AI agent design, workflow automation
+- Workflow: Notion, Zapier, Google Workspace, analytics workflows
 - Design: Figma, FigJam
-
 ---
-
 ## 📜 Certifications & Training
-
-- [Add certification](#)
-- [Add certification](#)
-- [Add certification](#)
-
+- Product Strategy — University of Maryland
+- UX Design — Google Career Certificates
+- Digital Product Management — UVA Darden School of Business
+- Agentic AI Architecture — Vanderbilt University
 ---
-
 ## 💬 About Me
-
-- 🔭 I’m currently working on: AI-native product systems through QuietStak LLC
-- 🌱 I’m currently learning: Applied AI product ops and workflow orchestration
-- 👯 I’m looking to collaborate on: Product strategy + AI implementation projects
-- 💬 Ask me about: Product discovery, roadmap clarity, delivery excellence
-- 📫 Reach me: r.bonefontjr@me.com
-
+- 🔭 I’m currently working on: AI-native systems through QuietStak
+- 🌱 I’m currently learning: advanced agent orchestration and applied AI architecture
+- 👯 I’m looking to collaborate on: product strategy + AI implementation
+- 💬 Ask me about: hospitality operations, product design under pressure, GTM systems
+- 📫 Reach me: [Roberto@quietstak.com](mailto:Roberto@quietstak.com)
 ---
-
 ## 🤝 Connect
-
-[Portfolio](https://follow-untie-33347680.figma.site/) • [GitHub](https://github.com/8Bit-Chef) • [Repositories](https://github.com/8Bit-Chef?tab=repositories)
-
+[LinkedIn](https://www.linkedin.com/in/roberto-bonefont-jr-6a769a23/) • [Portfolio](https://follow-untie-33347680.figma.site/) • [Schedule a Call](https://calendly.com/robertobonefont/new-meeting)
 ---
-
 ## 🗂️ Repo Structure (Optional)
-
 ```bash
 .
 ├── assets/
