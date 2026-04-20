@@ -1,67 +1,106 @@
-# Hi, I'm Roberto Bonefont 👋
-<p align="left">
-  <a href="https://github.com/8Bit-Chef">
-    <img src="https://komarev.com/ghpvc/?username=8Bit-Chef&label=Profile%20views&color=0e75b6&style=flat" alt="8Bit-Chef profile views" />
-  </a>
-  <a href="https://github.com/8Bit-Chef?tab=followers">
-    <img src="https://img.shields.io/github/followers/8Bit-Chef?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/8Bit-Chef?tab=repositories">
-    <img src="https://img.shields.io/github/stars/8Bit-Chef?affiliations=OWNER&style=flat&color=0e75b6" alt="GitHub user stars" />
-  </a>
+<h1 align="center">Hi, I'm Roberto Bonefont 👋</h1>
+<p align="center">
+  <b>Product Manager • AI Builder • Systems Thinker</b><br/>
+  Building thoughtful, AI-native tools that reduce friction and unlock clarity.
 </p>
-**Product leader | Builder | QuietStak LLC**
-I work at the intersection of product strategy, delivery, and execution — helping teams ship meaningful outcomes with clarity and momentum.
+
 ---
-## 🚀 Portfolio & Links
-- 🌐 **Portfolio Site:** [8bit-chef.github.io](https://8bit-chef.github.io)
-- 🎨 **Design Portfolio:** [RBonefont Portfolio](https://follow-untie-33347680.figma.site/)
-- 💼 **Repositories:** [github.com/8Bit-Chef?tab=repositories](https://github.com/8Bit-Chef?tab=repositories)
-- 📫 **Email:** [r.bonefontjr@me.com](mailto:r.bonefontjr@me.com)
----
-## 🧭 About Me
-- Founder / operator at **QuietStak LLC**
-- Focused on roadmap clarity, cross-functional alignment, and launch readiness
-- Building practical systems that balance speed, quality, and business impact
----
-## 🏆 Featured Work
-### Unified Customer Onboarding
-Led replatforming across web + mobile to reduce time-to-value and improve retention through clearer onboarding flows and instrumentation.
-### Insights Workspace MVP
-Defined and scoped a 0→1 analytics workspace MVP, aligning discovery, PRD quality, and engineering delivery cadence.
-### Delivery Health Program
-Introduced lightweight delivery governance (risk reviews, release rhythms, stakeholder visibility) to increase predictability without slowing teams down.
----
-## 🛠️ Skills & Tools
-<p>
-  <img src="https://img.shields.io/badge/Product%20Management-1f6feb?style=for-the-badge" alt="Product Management" />
-  <img src="https://img.shields.io/badge/Roadmapping-1f6feb?style=for-the-badge" alt="Roadmapping" />
-  <img src="https://img.shields.io/badge/Agile%20Delivery-1f6feb?style=for-the-badge" alt="Agile Delivery" />
-  <img src="https://img.shields.io/badge/Stakeholder%20Alignment-1f6feb?style=for-the-badge" alt="Stakeholder Alignment" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
+## 🧭 Vision
+
+<p align="center">
+  <img src="assets/vision-diagram.jpg" width="800" alt="Vision Diagram"/>
 </p>
+
+I design products that reduce cognitive load and operational friction — especially for overloaded teams and high-stakes workflows.
+
+> “Less noise. More clarity. Tools that actually do the work.”
+
 ---
-## 📊 GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=8Bit-Chef&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8Bit-Chef&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=8Bit-Chef&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=8Bit-Chef&theme=algolia&no-frame=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</p>
+
+## 🧠 Case Studies
+
+### 🍽️ [Unified Customer Onboarding – Faster Time-to-Value](https://github.com/8Bit-Chef/8Bit-Chef)
+- Replatformed onboarding across web and mobile to streamline first-use experience and remove drop-off friction.
+- Key tools: Product roadmaping, stakeholder alignment, instrumentation strategy.
+- Outcome: Clearer onboarding flow and stronger retention checkpoints.  
+<i>“Make the first five minutes feel obvious, not overwhelming.”</i>
+
 ---
-## 📈 Contribution Activity
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=8Bit-Chef&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+
+### 🧩 [Insights Workspace MVP – From Ambiguity to MVP](https://github.com/8Bit-Chef?tab=repositories)
+- Defined problem space, MVP scope, and experiment backlog for an operations-facing analytics workspace.
+- Frameworks used: JTBD, hypothesis-driven discovery, opportunity mapping.
+- Key impact: Faster alignment between design, engineering, and product decisions.  
+<i>“Good scope creates momentum. Great scope creates confidence.”</i>
+
+---
+
+### ⚙️ [Delivery Health Program – Predictable Execution at Scale](https://github.com/8Bit-Chef?tab=repositories)
+- Implemented lightweight governance for releases, risk visibility, and dependency management.
+- Operational/business impact: Better cross-functional coordination without adding process drag.
+- Metrics: Quarterly outcome reviews and release health tracking.
+
+---
+
+## 🎬 Demo
+
+<p align="center">
+  <img src="assets/demo.gif" width="800" alt="Demo GIF"/>
 </p>
+
+Short walkthrough of the product experience.
+
 ---
-## 🧩 Current Focus
-- Expanding portfolio case studies
-- Linking project repos to featured work
-- Sharpening product and delivery playbooks for repeatable execution
+
+## 📘 Product Strategy & UX Fluency
+
+### 🔁 Discovery & Strategy
+- Jobs-to-Be-Done (JTBD)
+- Hypothesis-Driven Development (HDD)
+- Opportunity mapping & prioritization
+
+### 🎯 UX & Research
+- User interviews & synthesis
+- Journey mapping & friction analysis
+- Wireframing & prototyping (Figma)
+
+### 🛠️ Tools & Systems
+- AI: GPT workflows, copilots, prompt systems
+- Workflow: Notion, Zapier, Google Workspace
+- Design: Figma, FigJam
+
 ---
-> QuietStak LLC — product leadership and delivery with focus, speed, and measurable outcomes.
+
+## 📜 Certifications & Training
+
+- [Add certification](#)
+- [Add certification](#)
+- [Add certification](#)
+
+---
+
+## 💬 About Me
+
+- 🔭 I’m currently working on: AI-native product systems through QuietStak LLC
+- 🌱 I’m currently learning: Applied AI product ops and workflow orchestration
+- 👯 I’m looking to collaborate on: Product strategy + AI implementation projects
+- 💬 Ask me about: Product discovery, roadmap clarity, delivery excellence
+- 📫 Reach me: r.bonefontjr@me.com
+
+---
+
+## 🤝 Connect
+
+[Portfolio](https://follow-untie-33347680.figma.site/) • [GitHub](https://github.com/8Bit-Chef) • [Repositories](https://github.com/8Bit-Chef?tab=repositories)
+
+---
+
+## 🗂️ Repo Structure (Optional)
+
+```bash
+.
+├── assets/
+│   ├── vision-diagram.jpg
+│   └── demo.gif
+└── README.md
