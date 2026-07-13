@@ -9,7 +9,6 @@
   <a href="mailto:Roberto@quietstak.com">Email</a> •
   <a href="https://www.linkedin.com/in/roberto-bonefont-jr-6a769a23/">LinkedIn</a> •
   <a href="https://follow-untie-33347680.figma.site/">Portfolio</a> •
-  <a href="https://calendly.com/robertobonefont/new-meeting">Calendly</a>
 </p>
 
 ---
