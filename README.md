@@ -24,7 +24,7 @@ I design AI-native product systems for high-pressure environments where speed, c
 ## Selected Case Studies
 
 ### QuietStak — AI Agents for Hospitality Workflows  
-[View project](Quietstak.com)
+[View project](https://quietstak.com/)
 
 - Built an AI workflow system for lead intake, qualification, and response
 - Combined product strategy + operations design for real-world service teams
